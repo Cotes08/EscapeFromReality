@@ -1,6 +1,6 @@
 # Escape From Reality
 
-"Escape From Reality" is a psychological horror prototype developed in **Unreal Engine 5 (v5.4.4)** using **Git LFS** for large assets.  
+"Escape From Reality" is a psychological horror prototype developed in **Unreal Engine 5 (v5.4.4)**.  
 This demo explores core gameplay mechanics, artistic direction, and narrative elements, providing a foundation for potential future development.
 
 🎬 **Watch the trailer:** [Escape From Reality Trailer](https://www.youtube.com/watch?v=KXVc1RC7Z84&feature=youtu.be)
