@@ -17,4 +17,4 @@ This demo explores core gameplay mechanics, artistic direction, and narrative el
 
 - This repository uses **Git LFS** to manage large assets.  
 - Downloading the repository as a ZIP file **will not work properly**.  
-- To clone the project correctly, you need a Git client with LFS support:
+- To download the project correctly, use any Git client to clone the repository.
