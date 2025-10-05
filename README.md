@@ -1,5 +1,16 @@
-# EscapeFromReality
+# Escape From Reality
 
-This project uses LFS (Large File Storage). If you want to download it, you must use a repository cloning tool. The 'Download ZIP' option will not download it correctly.
+"Escape From Reality" is a psychological horror prototype developed in **Unreal Engine 5 (v5.4.4)**.  
+This demo explores core gameplay mechanics, artistic direction, and narrative elements, providing a foundation for potential future development.
 
-Developed with Unreal Engine 5
+🎬 **Watch the trailer:** [Escape From Reality Trailer](https://www.youtube.com/watch?v=KXVc1RC7Z84&feature=youtu.be)
+
+## Key Features
+
+- First-person psychological horror experience.  
+- Multiple levels with immersive environments and challenges.  
+- Core mechanics and interactions established for future expansion.  
+- Integration of 3D assets, blueprints, animations, and scripts for a complete prototype.  
+- Focus on atmospheric design and player immersion.
+
+> Note: This project serves as a prototype/demo to showcase design, mechanics, and artistic direction.
